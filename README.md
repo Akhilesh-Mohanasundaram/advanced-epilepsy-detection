@@ -2,7 +2,7 @@
 EEG-driven epilepsy detection platform applying ML/DL for focal vs non-focal classification, tackling data imbalance with SMOTE and enabling reliable, faster medical diagnosis.
 
 
-#Introduction : 
+# Introduction : 
 
 Epilepsy, a chronic neurological disorder characterized by recurring seizures, affects 
 millions of individuals worldwide, profoundly impacting their quality of life. Early and 
